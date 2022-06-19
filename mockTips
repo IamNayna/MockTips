@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "body": "Read through the recipe at least twice to make sure that you understand the directions."
+  },
+  {
+    "id": "2",
+    "body": "Look at the recipe yield and decide if the number of servings is what you need. If not, consider whether you should cut the ingredient amounts in half or double them"
+  },
+  {
+    "id": "3",
+    "body": "Make sure that you can perform all the techniques."
+  },
+  {
+    "id": "4",
+    "body": "Check that you have all the necessary equipment and ingredients."
+  }
+]
